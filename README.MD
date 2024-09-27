@@ -4,7 +4,8 @@ CA FONCTIONNE SUR MON POSTE
 * Vous devez avoir python la dernière version devrait fonctionner https://www.python.org/downloads/
 
 * Pour executer le programme, placer vous a la racine de votre repo git à inspecter.
-* exemple de commande qui fonctionne dans mon cas
+* Ouvrir un cmd
+* exemple de commande qui fonctionne dans mon cas ci dessous
 
 ```bash
 PS C:\session3\BDD2\TP2\E24_S3_4363_BDA_TP02_Reservation_Voitures-skibidisigmasinohio> python c:\gitinspector-0.4.4\gitinspector\gitinspector.py -f "**" -F htmlembedded -HlmrTw > logs.html
