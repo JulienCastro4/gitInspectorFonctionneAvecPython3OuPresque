@@ -1,4 +1,4 @@
-*** CA FONCTIONNE SUR MON POSTE
+CA FONCTIONNE SUR MON POSTE
 
 * Essayez de cloner le repo sur votre disque
 * Vous devez avoir python la dernière version devrait fonctionner https://www.python.org/downloads/
