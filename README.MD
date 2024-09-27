@@ -2,6 +2,7 @@ CA FONCTIONNE SUR MON POSTE
 
 * Essayez de cloner le repo sur votre disque
 * Vous devez avoir python la dernière version devrait fonctionner https://www.python.org/downloads/
+cochez les 2 options dispo
 
 * Pour executer le programme, placez vous a la racine de votre repo git à inspecter.
 * Ouvrir un cmd
