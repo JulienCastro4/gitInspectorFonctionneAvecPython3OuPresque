@@ -12,3 +12,5 @@ python c:\gitinspector-0.4.4\gitinspector\gitinspector.py -f "**" -F htmlembedde
 C:\Python311\Lib\subprocess.py:1016: RuntimeWarning: line buffering (buffering=1) isn't supported in binary mode, the default buffer size will be used
   self.stdout = io.open(c2pread, 'rb', bufsize)
 ```
+
+* Pour exclure des fichiers voir l'exmple teams du prof
